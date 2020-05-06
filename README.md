@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## "A pan-cancer analysis of the frequency of DNA alterations across cell cycle activity levels" 
+### Lundberg et al.
 
-You can use the [editor on GitHub](https://github.com/arianlundberg/PANCAN.analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Wrote by ARIAN LUNDBERG 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All R codes (R statistical software version 3.5.3) to reproduce main and supplemental figures of 
+"A pan-cancer analysis of the frequency of DNA alterations across cell cycle activity levels" 
+Lundberg et al. are available in "~/Codes/"
 
-### Markdown
+**The following RData files were used in the codes.**
+ 
+### PANCAN.RData 
+is an ExpressionSet created by using available data at the following address and publication:  
+https://gdc.cancer.gov/about-data/publications/pancanatlas 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### RNA expression data 
+RNA (Final) - EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+### Clinical with Follow-up 
+Clinical with Follow-up - clinical_PANCAN_patient_with_followup.tsv
+**Additional** patients survival information downloaded from **ref 19. Liu et al.**
+### iCluster and Aneuploidy data:
+downloaded from **ref 17. Hoadley et al.**
 
-```markdown
-Syntax highlighted code block
+### CCS.genes.RData: 
+a list of genes used to make the Cell cycle score (CCS) in the original publication. **ref 11. Lundberg et al.**
+### Cancer.abb.RData: 
+RData generated to assign colors to different cancer types used in the main and supplemental figures of this publication.  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arianlundberg/PANCAN.analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact Arian Lundberg : **arlundbg@stanford.edu** if you have any furthur questions. 
+
+Sincerely,
+Arian Lundberg
