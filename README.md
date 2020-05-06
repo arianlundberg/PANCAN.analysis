@@ -1,7 +1,7 @@
 ## "A pan-cancer analysis of the frequency of DNA alterations across cell cycle activity levels" 
 ### Lundberg et al.
 
-### Wrote by ARIAN LUNDBERG 
+### Written by ARIAN LUNDBERG 
 
 All R codes (R statistical software version 3.5.3) to reproduce main and supplemental figures of 
 "A pan-cancer analysis of the frequency of DNA alterations across cell cycle activity levels" 
