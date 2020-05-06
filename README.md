@@ -10,7 +10,7 @@ Lundberg et al. are available in "~/Codes/"
 **The following RData files were used in the codes.**
  
 ### PANCAN.RData 
-is an ExpressionSet created by using available data at the following address and publication:  
+is an ExpressionSet created by using public data available at the following link and/or publications:  
 https://gdc.cancer.gov/about-data/publications/pancanatlas 
 
 ### RNA expression data 
