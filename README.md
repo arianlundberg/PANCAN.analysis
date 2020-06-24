@@ -1,5 +1,5 @@
 ## "A pan-cancer analysis of the frequency of DNA alterations across cell cycle activity levels" 
-### Lundberg et al.
+### https://doi.org/10.1038/s41388-020-1367-4 Lundberg et al.
 
 ### Written by ARIAN LUNDBERG 
 
