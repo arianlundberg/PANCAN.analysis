@@ -29,7 +29,7 @@ RData generated to assign colors to different cancer types used in the main and 
 
 ### Support or Contact
 
-Please contact Arian Lundberg : **arlundbg@stanford.edu** if you have any furthur questions. 
+Please contact Arian Lundberg : **arian.lundberg@ucsf.edu** if you have any furthur questions. 
 
 Sincerely,
 Arian Lundberg
